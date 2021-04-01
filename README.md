@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KsLimon
-              -Md Kamrus Samad
+- 👋 Hi, I’m Md Kamrus Samad
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Base of Machine Learning
 - 💞️ I’m looking to collaborate on lerning with someone who are interested on (machine learning) and computer science thesis
