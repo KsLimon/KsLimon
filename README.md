@@ -7,4 +7,4 @@
               email: kamrus.samad@northsouth.edu
               whatsapp: +8801709447040
 
-I'm a student of North South University with CSE.
+I'm a student of North South University.  
