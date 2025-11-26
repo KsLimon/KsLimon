@@ -12,7 +12,7 @@
 
 Hats off to you for reaching me. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-If you have any question feel free to email me <a href="mailto:absphreak@outlook.com"><b>here</b></a>.
+If you have any question feel free to email me <a href="mailto:kslimon41@gmail.com"><b>here</b></a>.
 
 <i>Happy Coding!</i> 😊
 
